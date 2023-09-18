@@ -1,3 +1,4 @@
+![logo](https://github.com/JewelaAntallan/JewelaAntallan/blob/main/Pink%20Gradient%20Keep%20Going%20Desktop%20Wallpaper.png)
 <h1 align="center">Hi 👋, I'm Jewela Cazzandra Antallan</h1>
 <h3 align="center">A passionate IT student from the Philippines</h3>
 
