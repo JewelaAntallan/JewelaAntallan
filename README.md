@@ -1,7 +1,6 @@
 ![logo](https://github.com/JewelaAntallan/JewelaAntallan/blob/main/Pink%20Gradient%20Keep%20Going%20Desktop%20Wallpaper.png)
 <h1 align="center">Hi 👋, I'm Jewela Cazzandra Antallan</h1>
-<h3 align="center">A passionate IT student from the Philippines</h3>
-
+<h3 align="center">A passionate IT student from the Philippines, honing my skills in graphic design. I've also got hands-on experience from TESDA Computer System Servicing, Bookkeeping, Contact Service Center, and Animation trainings, adding practical know-how to my creative toolbox. Let's fuse technology and design for impactful solutions! 💡💻</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jewelaantallan&label=Profile%20views&color=0e75b6&style=flat" alt="jewelaantallan" /> </p>
 
 - 📫 How to reach me **jew.antallan@gmail.com**
